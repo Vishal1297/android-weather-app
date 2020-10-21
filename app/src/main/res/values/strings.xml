@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WhatsWeather</string>
+    <string name="bg">bg</string>
+    <string name="title">Enter City Name</string>
+    <string name="cityNameEditTxt" />
+    <string name="getWeatherBtn">Get Weather</string>
+    <string name="output" />
+    <string name="exit">Exit</string>
+    <string name="about">About</string>
+</resources>
